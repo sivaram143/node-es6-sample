@@ -25,7 +25,7 @@ mongod
 
 Start dev server
 ```
-npm run dev
+npm start
 ```
 
 # Happy Coding
